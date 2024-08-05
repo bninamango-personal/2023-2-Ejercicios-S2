@@ -1,0 +1,3 @@
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/UP2_Ejercicios_S2.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
