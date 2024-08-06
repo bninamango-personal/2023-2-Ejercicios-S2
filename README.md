@@ -36,7 +36,7 @@ El programa debe calcular el valor de la sumatoria de los términos de la serie.
 
 $$
 \begin{align}
-  X = \sum_{n=1}^{10} - 1^{n+1}\frac{a^{n}*b^{n+1}}{(a-b)(n!)}
+  X = \sum_{n=1}^{10} - 1^{n+1}\frac{a^{n}b^{n+1}}{(a-b)(n!)}
 \end{align}
 $$
 - `a = [4, 6]`
