@@ -1,4 +1,4 @@
-# 2023-2: Semana 2 
+# Semana 2 
 **curso:** Programación II  
 **universidad:** UTEC 
 ## Pregunta #1 - Tabla de asteriscos
