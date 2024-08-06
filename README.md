@@ -3,11 +3,16 @@
 **universidad:** UTEC 
 ## Pregunta #1 - Tabla de asteriscos
 Se le solicita que ingrese un número “n” que indica el tamaño de la figura a imprimir según el intervalo especificado `[4, 8]`.
-<img title="a title" alt="Alt text" src="/images/">
+<img title="a title" alt="Alt text" src="/media/E1.png">
+
 ## Pregunta #2 - Tabla de asteriscos
 Se le solicita que ingrese un número “n” que indica el tamaño de la figura a imprimir según el intervalo especificado `[4, 8]`.
+<img title="a title" alt="Alt text" src="/media/E2.png">
+
 ## Pregunta #3 - Tabla de asteriscos
 Se le solicita que ingrese un número “n” que indica el tamaño de la figura a imprimir según el intervalo especificado `[4, 8]`.
+<img title="a title" alt="Alt text" src="/media/E2.png">
+
 ## Pregunta #4 - Serie
 El programa debe calcular el valor de la sumatoria de los términos de la serie. Se debe tener en cuenta que a y b son valores reales positivos.
 - `a = [1.5, 1.9]`
