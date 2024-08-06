@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UP2_Ejercicios_S2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "E1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E1-Debug-019201880298f8b5d2c6.json",
+					"name" : "E1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E2-Debug-6384632bb07750399af9.json",
+					"name" : "E2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E3-Debug-0f90a2b4ab00f7ad490d.json",
+					"name" : "E3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E4-Debug-c6c6096cd6aefeda5ac9.json",
+					"name" : "E4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E5-Debug-c483b1185401a4e23458.json",
+					"name" : "E5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug",
+		"source" : "C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

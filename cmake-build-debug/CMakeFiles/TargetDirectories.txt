@@ -1,3 +1,7 @@
-C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/UP2_Ejercicios_S2.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/E1.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/E2.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/E3.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/E4.dir
+C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/E5.dir
 C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/josti/Desktop/Bryan/UP2-Ejercicios-S2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
