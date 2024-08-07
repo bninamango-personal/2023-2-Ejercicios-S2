@@ -1,6 +1,7 @@
 # Semana 2 
-**curso:** Programación II  
 **universidad:** UTEC 
+**curso:** Programación II  
+
 ## Pregunta #1 - Tabla de asteriscos
 Se le solicita que ingrese un número “n” que indica el tamaño de la figura a imprimir según el intervalo especificado `[4, 8]`.
 <div>
