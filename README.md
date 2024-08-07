@@ -1,5 +1,7 @@
 # Semana 2 
+
 **universidad:** UTEC 
+
 **curso:** Programación II  
 
 ## Pregunta #1 - Tabla de asteriscos
